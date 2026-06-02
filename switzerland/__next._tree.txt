@@ -1,7 +1,7 @@
 :HL["/_next/static/chunks/0x-yvrs4nxmzs.css","style"]
 :HL["/_next/static/chunks/149z8k50a.74~.css","style"]
-:HL["/_next/static/chunks/14xkthx8pbw~o.css","style"]
+:HL["/_next/static/chunks/0a922yjfxz7-h.css","style"]
 :HL["/_next/static/media/01e4147cff8141ee-s.p.10ked.7w885.g.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/_next/static/media/ad9c66e761fed85a-s.p.0e4b2z5rxsmxh.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/_next/static/media/f274a7d773de54c9-s.163vk5zt4o7.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"switzerland","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"FE088xveGPKnsrjYApRGp"}
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"switzerland","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"i5Y9a9WHStdDOZQLTSK4S"}
