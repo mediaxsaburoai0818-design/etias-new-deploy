@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://etias-new-deploy.pages.dev/sitemap.xml
+Sitemap: https://etias-new-deploy-ctv.pages.dev/sitemap.xml
